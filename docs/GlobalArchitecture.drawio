@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
+    <mxGraphModel dx="1678" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="10b056a9c633e61c-30" value="Global architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="1590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;startArrow=block;" edge="1" parent="1" source="Fob56AUz6vzgeLFvf8KT-2" target="Fob56AUz6vzgeLFvf8KT-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="Fob56AUz6vzgeLFvf8KT-2" target="Fob56AUz6vzgeLFvf8KT-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="423" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-2" value="Mobile client" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
+          <mxGeometry x="368" y="223" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="Fob56AUz6vzgeLFvf8KT-3" target="Fob56AUz6vzgeLFvf8KT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="Fob56AUz6vzgeLFvf8KT-3" target="Fob56AUz6vzgeLFvf8KT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="Fob56AUz6vzgeLFvf8KT-3" target="Fob56AUz6vzgeLFvf8KT-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="863" y="513" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-3" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="811" y="393" width="104.17" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-4" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.authentication_google;" vertex="1" parent="1">
+          <mxGeometry x="808.09" y="103" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-5" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="403" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-6" value="Mobile client" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
+          <mxGeometry x="368" y="463" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-12" value="Google Authentication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="928" y="128" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-13" value="Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1148" y="493" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-14" value="Backend api" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="818.09" y="533" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fob56AUz6vzgeLFvf8KT-15" value="Adversaries" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="373.00000000000006" y="583" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
